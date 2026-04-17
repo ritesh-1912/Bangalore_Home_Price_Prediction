@@ -91,7 +91,3 @@ python server.py
 * **Algorithm:** Linear Regression
 * **Data Cleaning:** Handling NA values, dimensionality reduction, One Hot Encoding for location.
 * **Outlier Removal:** Logic based on square ft per bedroom and standard deviation checks.
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
